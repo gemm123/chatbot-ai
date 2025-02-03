@@ -12,7 +12,7 @@ This project is a chatbot API built using **FastAPI** and **GPT-2**. The chatbot
 ### Cloning and Manual Setup
 1. **Clone the repository** and navigate to the project directory:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/gemm123/chatbot-ai
    cd chatbot-api
    ```
 
